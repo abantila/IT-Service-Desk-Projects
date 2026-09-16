@@ -34,11 +34,11 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 - **Priority:** High  
 - **Category:** Account Access / Authentication
 
-## Issue
+- **Issue**
 
 A user returned from a three-week vacation and was unable to log in to her computer because her password had expired. She was also unable to change the password from the login screen and needed access to her development environment.
 
-## Troubleshooting
+- **Troubleshooting**
 
 - Located the user's account in the directory and reviewed the authentication settings.
 - Initiated identity verification before making changes to the user's account.
@@ -47,13 +47,11 @@ A user returned from a three-week vacation and was unable to log in to her compu
 - After successfully verifying the user, initiated a password reset.
 - Provided the new password to the user through chat.
 
-## Resolution
+- **Resolution**
 
-Successfully verified the user's identity and reset the expired password. The new password was provided to the user through chat, and the user confirmed that she was able to log in successfully.
+Successfully verified the user's identity and reset the expired password. The new password was provided to the user through chat, and the user confirmed that she was able to log in successfully
 
----
-
-## Video Demonstration
+- **Video Demonstration**
 
 🎥 [Watch Ticket Resolution on Loom](https://www.loom.com/share/d00d280188a845998d4b22a76bc5822c)
 
