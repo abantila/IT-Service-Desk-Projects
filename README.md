@@ -8,9 +8,9 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 ## Technical Skills & Tools
 
--**Identity & Access Management:** User account management, authentication troubleshooting, password resets, identity verification, access management
+- **Identity & Access Management:** User account management, authentication troubleshooting, password resets, identity verification, access management
 
--**Service Desk & Troubleshooting:** Incident troubleshooting and resolution, ticket prioritization, end-user support, technical problem-solving, user communication, resolution verification
+- **Service Desk & Troubleshooting:** Incident troubleshooting and resolution, ticket prioritization, end-user support, technical problem-solving, user communication, resolution verification
 
 > This section will continue to expand as I complete and document more service desk tickets.
 
