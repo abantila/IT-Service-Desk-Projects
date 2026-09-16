@@ -38,8 +38,6 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 A user returned from a three-week vacation and was unable to log in to her computer because her password had expired. She was also unable to change the password from the login screen and needed access to her development environment.
 
----
-
 ## Troubleshooting
 
 - Located the user's account in the directory and reviewed the authentication settings.
@@ -48,8 +46,6 @@ A user returned from a three-week vacation and was unable to log in to her compu
 - Entered the verification code to confirm the user's identity.
 - After successfully verifying the user, initiated a password reset.
 - Provided the new password to the user through chat.
-
----
 
 ## Resolution
 
