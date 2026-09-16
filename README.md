@@ -31,7 +31,7 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 ## Ticket 1: Password Expiration & Login Issue
 
-**Priority:** High  
++ **Priority:** High  
 **Category:** Account Access / Authentication
 
 ### Issue
