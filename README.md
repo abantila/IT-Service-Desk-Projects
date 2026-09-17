@@ -8,7 +8,9 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 ## Technical Skills & Tools
 
-- **Identity & Access Management:** User account management, authentication troubleshooting, password resets, identity verification, access management
+- **Identity & Access Management:** User account management, authentication troubleshooting, password resets, identity verification, access management, domain authentication
+
+- **Workstation Deployment:** Server imaging, boot menu deployment, deployment share authentication, task sequence configuration, task sequence variables, workstation hardware setup
 
 - **Service Desk & Troubleshooting:** Incident troubleshooting and resolution, ticket prioritization, end-user support, technical problem-solving, user communication, resolution verification
 
