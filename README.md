@@ -37,6 +37,31 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 ### Video Demonstration
 
-🎥 [Watch Ticket Resolution on Loom](https://www.loom.com/share/d00d280188a845998d4b22a76bc5822c)
+🎥 [Watch Complete Ticket Resolution on Loom](https://www.loom.com/share/d00d280188a845998d4b22a76bc5822c)
+
+---
+
+## Ticket 2: Customer Support PC Replacement & Deployment
+
+**Priority:** Critical  
+**Category:** Workstation Deployment / Hardware
+
+**Issue:** A Customer Support agent's desktop was completely unresponsive and would not power on. The user had already confirmed that the wall outlet was working, but the workstation showed no lights, fan activity, or other signs of power. Since the agent was unable to take customer calls, a replacement workstation needed to be deployed.
+
+**Troubleshooting**
+- Reviewed the deployment documentation to determine the appropriate deployment method and identified Server Imaging as the required method.
+- Started the desktop deployment and completed the physical setup by connecting the power, Ethernet, DisplayPort, keyboard, and mouse.
+- Accessed the boot menu to begin the Server Imaging process.
+- Launched the Task Sequence Wizard and authenticated to the deployment share using the task sequence password provided in the SOP.
+- Configured the required task sequence variables by entering the appropriate names and values.
+- Completed the imaging process and reached the Windows sign-in screen.
+- Signed in using domain credentials to confirm that the workstation was operational.
+- Shipped the replacement desktop to the user.
+
+**Resolution:** Successfully deployed and configured a replacement workstation using Server Imaging. The user confirmed through chat that the replacement desktop arrived and was working successfully.
+
+### Video Demonstration
+
+🎥 [Watch Complete Ticket Resolution on Loom](https://www.loom.com/share/bac567009f1c4e0ba738715be945f33f)
 
 ---
