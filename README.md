@@ -14,6 +14,8 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 
 - **Service Desk & Troubleshooting:** Incident troubleshooting and resolution, ticket prioritization, end-user support, technical problem-solving, user communication, resolution verification
 
+- **Networking & Remote Support:** VPN connectivity, mapped network drives, UNC paths, Remote Desktop, shared network resource access
+
 > This section will continue to expand as I complete and document more service desk tickets.
 
 ---
@@ -65,5 +67,28 @@ The purpose of this repository is to document my hands-on practice with IT suppo
 ### Video Demonstration
 
 🎥 [Watch Complete Ticket Resolution on Loom](https://www.loom.com/share/bac567009f1c4e0ba738715be945f33f)
+
+---
+
+## Ticket 3: Remote User Unable to Access Shared Drive
+
+**Priority:** High  
+**Category:** Network Access / Remote Support
+
+**Issue:** A remote Marketing user was unable to access files on the department's shared drive and received a "The network path was not found" error. The user's internet and email were working normally, but the mapped network drives showed as disconnected.
+
+**Troubleshooting**
+- Reviewed the reported symptoms and determined that general internet connectivity was working, while access to internal network resources was unavailable.
+- Connected to the user's computer through Remote Desktop to troubleshoot the issue.
+- Connected the workstation to the company VPN to restore access to internal network resources.
+- Reviewed the documentation to identify the correct UNC path for the Marketing shared drive.
+- Mapped the network drive in File Explorer using the documented UNC path.
+- Asked the user to verify access to the shared drive after the changes were completed.
+
+**Resolution:** Restored access to the Marketing shared drive by connecting the remote workstation to the company VPN and mapping the correct UNC path. The user confirmed that she could access the shared files successfully.
+
+### Video Demonstration
+
+🎥 [Watch Complete Ticket Resolution on Loom](https://www.loom.com/share/0c450b0ed1a44b57805a8631aff9fdba)
 
 ---
